@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Kaustav Ghosh</h1>
 
 <p align="center">
-  <strong>GenAI Engineer building production-grade LLM systems</strong><br/>
-  RAG Pipelines | Multi-Agent Systems | LLM Observability | MCP | AI Automation
+  <strong>GenAI Engineer | Model Alignment | RAG Pipelines | Agentic Systems</strong><br/>
+  RAG Architecture | Multi-Agent Systems | LLM Fine-Tuning | LLM Observability | AI Automation
 </p>
 
 <p align="center">
@@ -16,9 +16,11 @@
 
 ### What I Do
 
-I design and ship **Generative AI systems** in enterprise environments — from multi-agent research engines and RAG pipelines to LLM observability dashboards that track cost, latency, and quality at scale. I care about building AI that actually works in production, not just in notebooks.
+I design and ship **Generative AI systems** in enterprise environments - from hybrid-search RAG pipelines and multi-agent research engines to LLM observability dashboards and fine-tuned clinical AI models. I care about building AI that actually works in production, not just in notebooks.
 
-Currently based in **Bangalore, India**. MSc in Advanced Computer Science from the **University of Exeter**.
+Most recently at **Sollucet Teche** (Bangalore), where I architected enterprise RAG pipelines using LlamaIndex and Milvus, reducing document retrieval time by 45%. Before that, I worked as a freelance AI/ML engineer on a medical diagnosis system - applying SFT, DPO, and vLLM to achieve a 40% reduction in inference latency against frontier models.
+
+MSc in Advanced Computer Science (Distinction) from the **University of Exeter**. Based in **Bangalore, India** - open to relocation.
 
 ---
 
@@ -26,34 +28,36 @@ Currently based in **Bangalore, India**. MSc in Advanced Computer Science from t
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
-| [AgentForge](https://github.com/KazukiNoSuzaku/AgentForge) | Multi-agent research engine with Planner → Researcher → Analyst → Writer → Critic pipeline | LangGraph, MCP, Claude API, Streamlit |
-| [RAG-with-Evaluation-Pipeline](https://github.com/KazukiNoSuzaku/RAG-with-Evaluation-Pipeline) | Production-grade RAG system with RAGAS evaluation harness and experiment tracking | LangChain, FAISS, Chroma, RAGAS, OpenAI |
-| [LLM-Observability-Dashboard](https://github.com/KazukiNoSuzaku/LLM-Observability-Dashboard) | End-to-end observability for LLM apps — token usage, latency, cost, quality metrics | FastAPI, Streamlit, Arize Phoenix |
-| [N8N-Automations](https://github.com/KazukiNoSuzaku/N8N-Automations) | Collection of ready-to-deploy n8n workflow templates for AI automation | n8n, APIs |
-| [GenAI-Product-Teardowns](https://github.com/KazukiNoSuzaku/GenAI-Product-Teardowns) | Reverse-engineering GenAI products — architecture, product decisions, and what I'd improve | Writing, Product Thinking |
+| [AgentForge](https://github.com/KazukiNoSuzaku/AgentForge) | Multi-agent research engine with Planner -> Researcher -> Analyst -> Writer -> Critic pipeline | LangGraph, MCP, Claude API, Streamlit |
+| [RAG-with-Evaluation-Pipeline](https://github.com/KazukiNoSuzaku/RAG-with-Evaluation-Pipeline) | Production-grade RAG system with RAGAS evaluation harness benchmarking faithfulness, relevancy, and context precision | LangChain, FAISS, Chroma, RAGAS, OpenAI |
+| [LLM-Observability-Dashboard](https://github.com/KazukiNoSuzaku/LLM-Observability-Dashboard) | End-to-end observability for LLM apps: token usage, latency, cost, quality metrics | FastAPI, Streamlit, Arize Phoenix, Claude API |
+| [Document-Intelligence-Toolkit](https://github.com/KazukiNoSuzaku/Document-Intelligence-Toolkit) | LangChain pipeline for PDF/DOCX parsing, Map-Reduce summarization, structured extraction, and semantic diff | LangChain, Pydantic, Streamlit, Anthropic, OpenAI |
+| [N8N-Automations](https://github.com/KazukiNoSuzaku/N8N-Automations) | Ready-to-deploy n8n workflow templates for AI automation | n8n, APIs |
+| [GenAI-Product-Teardowns](https://github.com/KazukiNoSuzaku/GenAI-Product-Teardowns) | Reverse-engineering GenAI products: architecture, product decisions, and what I'd improve | Writing, Product Thinking |
 
 ---
 
 ### Tech Stack
 
 ```
-Agents & LLMs    →  LangGraph, MCP, LangChain, OpenAI API, Anthropic API, Prompt Engineering
-RAG & Search     →  FAISS, ChromaDB, Pinecone, RAGAS, Reranking
-ML & Data        →  Python, Pandas, NumPy, Scikit-learn, NLP, TensorFlow
-Backend & APIs   →  FastAPI, Django, Node.js
-Observability    →  Arize Phoenix, Streamlit, Weights & Biases
-Automation       →  n8n, RPA, Power Automate
-Infra & Tools    →  Docker, AWS, Azure, Git, PostgreSQL
-Visualization    →  Tableau, Power BI, Matplotlib
+Agents & LLMs        ->  LangGraph, LangChain, LlamaIndex, MCP, Anthropic API, OpenAI API, Prompt Engineering
+RAG & Search         ->  Milvus, FAISS, ChromaDB, Pinecone, RAGAS, Hybrid Search, Reranking
+Model Alignment      ->  SFT, DPO, LoRA / QLoRA, HuggingFace PEFT, Knowledge Distillation
+ML & Inference       ->  Python, vLLM, PyTorch, HuggingFace Transformers, NLP
+Backend & APIs       ->  FastAPI, Django, Node.js
+Observability        ->  Arize Phoenix, Streamlit, Weights & Biases
+Automation           ->  n8n, Microsoft Copilot Studio, RPA, Power Automate
+Infra & Tools        ->  Docker, AWS, Azure, Git, PostgreSQL
+Visualization        ->  Tableau, Power BI, Matplotlib
 ```
 
 ---
 
-### What I'm Working On
+### What I'm Exploring
 
-- Building **AgentForge** — a multi-agent research engine using LangGraph and MCP
-- Exploring agentic AI patterns: tool use, planning, self-critique loops
-- Writing product teardowns of GenAI systems on [Substack](https://substack.com) and [LinkedIn](https://www.linkedin.com/in/kaustav-ghosh-b978a6119/)
+- Agentic AI patterns: tool use, planning loops, self-critique, and multi-agent coordination
+- GraphRAG and hybrid search architectures for enterprise document intelligence
+- Writing product teardowns of GenAI systems on [LinkedIn](https://www.linkedin.com/in/kaustav-ghosh-b978a6119/)
 
 ---
 
