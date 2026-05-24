@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Kaustav Ghosh</h1>
 
 <p align="center">
-  <strong>GenAI Engineer | Model Alignment | RAG Pipelines | Agentic Systems</strong><br/>
-  RAG Architecture | Multi-Agent Systems | LLM Fine-Tuning | LLM Observability | AI Automation
+  <strong>Agentic AI Specialist | Forward Deployment Engineer</strong><br/>
+  Multi-Agent Systems | Enterprise AI Deployment | RAG Pipelines | LLM Observability | AI Automation
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### What I Do
 
-I design and ship **Generative AI systems** in enterprise environments - from hybrid-search RAG pipelines and multi-agent research engines to LLM observability dashboards and fine-tuned clinical AI models. I care about building AI that actually works in production, not just in notebooks.
+I deploy **agentic AI systems** into enterprise environments and work directly with customers to make them actually stick - from multi-agent research engines and hybrid-search RAG pipelines to LLM observability dashboards. My focus is forward deployment: translating frontier AI capabilities into production systems that solve real business problems, not just demos that die in notebooks.
 
 Most recently at **Sollucet Teche** (Bangalore), where I architected enterprise RAG pipelines using LlamaIndex and Milvus, reducing document retrieval time by 45%. Before that, I worked as a freelance AI/ML engineer on a medical diagnosis system - applying SFT, DPO, and vLLM to achieve a 40% reduction in inference latency against frontier models.
 
@@ -53,15 +53,16 @@ Visualization        ->  Tableau, Power BI, Matplotlib
 
 ---
 
-### What I'm Exploring
+### What I'm Focused On
 
-- Agentic AI patterns: tool use, planning loops, self-critique, and multi-agent coordination
+- Designing and deploying production agentic systems: tool use, planning loops, self-critique, and multi-agent coordination
+- Forward deployment patterns: onboarding enterprise customers onto agentic AI, handling integration complexity and edge cases
 - GraphRAG and hybrid search architectures for enterprise document intelligence
 - Writing product teardowns of GenAI systems on [LinkedIn](https://www.linkedin.com/in/kaustav-ghosh-b978a6119/)
 
 ---
 
 <p align="center">
-  <em>Open to GenAI Engineer, ML Engineer, and AI Lead opportunities.</em><br/>
+  <em>Open to Agentic AI Specialist, Forward Deployment Engineer, and AI Solutions Engineer opportunities.</em><br/>
   <strong>Let's build something that ships.</strong>
 </p>
