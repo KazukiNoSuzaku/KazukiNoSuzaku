@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Kaustav Ghosh</h1>
 
 <p align="center">
-  <strong>Agentic AI Specialist | Forward Deployment Engineer</strong><br/>
+  <strong>Agentic AI Specialist || Forward Deployment Engineer</strong><br/>
   Multi-Agent Systems | Enterprise AI Deployment | RAG Pipelines | LLM Observability | AI Automation
 </p>
 
