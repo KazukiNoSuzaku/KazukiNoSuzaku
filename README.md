@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kaustav-ghosh-b978a6119/">LinkedIn</a> &bull;
   <a href="mailto:ghosh1k4@gmail.com">Email</a> &bull;
-  <a href="https://kaustav-ghosh-portfolio.vercel.app">Portfolio</a> &bull;
+  <a href="https://design-portfolio-one-ruby.vercel.app/">Portfolio</a> &bull;
   <a href="https://github.com/KazukiNoSuzaku/GenAI-Product-Teardowns">Writing</a>
 </p>
 
