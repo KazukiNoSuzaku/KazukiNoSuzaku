@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Kaustav Ghosh</h1>
+<h1 align="center">Hii, I'm Kaustav Ghosh</h1>
 
 <p align="center">
   <strong>Forward Deployed Engineer | AI Team Lead @ Infosys Consulting</strong><br/>
