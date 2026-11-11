@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my GitHub activity" />
+  <img src="dragon/dragon.gif" width="512" alt="A pixel-art red Chinese dragon drawn from my GitHub activity" />
 </p>
 
 ---
